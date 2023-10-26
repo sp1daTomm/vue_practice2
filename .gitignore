@@ -17,3 +17,7 @@ yarn-error.log
 /.fleet
 /.idea
 /.vscode
+
+/public/upload
+/bootstrap/ssr
+stats-analyze.html
